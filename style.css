@@ -12,3 +12,6 @@ root {
 * {
     top:0;
 }
+body {
+    background-color: yellow;
+}
